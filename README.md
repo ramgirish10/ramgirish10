@@ -35,7 +35,7 @@ I'm always eager to collaborate on exciting projects, particularly in the realms
 📫 Get in Touch
 ==============
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/girish-bodempudi-ram-b4b4aa18b/)
+- 💼 [LinkedIn](linkedin.com/in/girishbodempudiram)
 - 📧 br1girish@gmail.com
 - 📞 074696 17995
 
