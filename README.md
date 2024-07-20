@@ -24,7 +24,7 @@ I'm Girish, a detail-oriented Data Analyst with a passion for turning data into 
 
 - 🐍 Python for data manipulation, analysis, and modelling
 - 🗄️ SQL for database querying and management
-- 📈 Power BI for data visualization and interactive reporting
+- 📈 Power BI, Tableau for data visualization and interactive reporting
 - 🔧 Excel, SPSS, SAS Enterprise, and other analytical tools
 
 🌟 Let's Collaborate!
