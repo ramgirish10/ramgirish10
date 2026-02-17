@@ -36,8 +36,7 @@ I'm always eager to collaborate on exciting projects, particularly in the realms
 ==============
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/girishbodempudiram/)
-- 📧 br1girish@gmail.com
-- 📞 074696 17995
+- 📧 girishbodempudi@gmail.com
 - 🌐 [Portfolio Website](https://ramgirish10.github.io/portfolio/)
 
 Let's connect and explore how we can work together to unlock the power of data!
